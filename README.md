@@ -162,4 +162,9 @@ soc-lab-03-windows-event-logs/
 
 **Nicolas Borges Ocampos**
 Cybersecurity student | Aspiring SOC / Blue Team analyst
-[LinkedIn](https://www.linkedin.com/in/nicolas-borges-512411402/)
+[LinkedIn](https://www.linkedin.com/in/nicolas-borges-ocampos/)
+
+
+## AI Assistance
+
+> AI tools were used only to help create and organize this README. The lab, practical work, commands, analysis, and conclusions are my own work.
